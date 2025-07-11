@@ -1,0 +1,32 @@
+{
+  "header": {
+    "manage": "खर्च प्रबंधित करें",
+    "all": "सभी खर्चे",
+    "recent": "हाल के खर्चे",
+    "editExpense": "खर्च संपादित करें",
+    "addExpense": "खर्च जोड़ें"
+  },
+  "button": {
+    "submit": "जमा करें",
+    "add": "जोड़ें",
+    "update": "अपडेट करें",
+    "cancel": "रद्द करें"
+  },
+  "period": {
+    "last7days": "पिछले 7 दिन"
+  },
+  "messages": {
+    "noRecentExpenses": "पिछले 7 दिनों के लिए कोई खर्च दर्ज नहीं किया गया है!"
+  },
+  "title": {
+    "yourExpense": "आपका खर्च"
+  },
+   "form": {
+    "amount": "राशि",
+    "date": "तारीख",
+    "description": "विवरण"
+  },
+  "summary":{
+    "total":"कुल"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "header": {
+    "manage": "Manage Expense",
+    "allExpenses": "All Expenses",
+    "recentExpenses": "Recent Expenses",
+    "editExpense": "Edit Expense",
+    "addExpense": "Add Expense"
+  },
+  "button": {
+    "submit": "Submit",
+    "add": "Add",
+    "update": "Update",
+    "cancel": "Cancel"
+  },
+  "period": {
+    "last7days": "Last 7 Days"
+  },
+   "messages": {
+    "noRecentExpenses": "No expenses registered for the last 7 days!"
+  },
+  "title": {
+    "yourExpense": "Your Expense"
+  },
+  "form": {
+    "amount": "Amount",
+    "date":"Date",
+    "description": "Description"
+  },
+  "summary":{
+    "total":"Total"
+  }
+}
+
